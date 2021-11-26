@@ -1,8 +1,6 @@
 # Coursera_Capstone
 ## Applied Data Science Capstone Course by IBM - Repository
 
-This repository is for the *Applied Data Science Capstone* course in the *IBM Data Science Professional Certificate*. To view my projects/assignments of all other courses in the *IBM Data Science Professional Certificate*, please visit my IBM-Data-Science-Projects repository at https://github.com/raunakbhutoria/IBM-Data-Science-Projects.
-
 This repository contains a number of files. The files and their functions are as follows:
 1) 'Analyzing the Neighborhoods in Mumbai for Starting a Restaurant - Final Report.docx' - A report of the final project in MS Word format.
 2) 'Analyzing the Neighborhoods in Mumbai for Starting a Restaurant - Final Report.pdf' - A report of the final project in PDF format.
